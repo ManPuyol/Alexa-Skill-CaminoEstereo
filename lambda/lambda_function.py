@@ -38,10 +38,10 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'https://www.radiokrishna.com/RKC-Terni-HQ.m3u',
+    "url": 'https://servidor16-2.brlogic.com:7558/live?source=website',
     "metadata": {
       "title": 'Camino estereo',
-      "subtitle": 'A subtitle for Camino estereo',
+      "subtitle": 'Christian Radio',
       "art": {
         "sources": [
           {
